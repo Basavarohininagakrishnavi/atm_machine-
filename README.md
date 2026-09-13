@@ -2,6 +2,7 @@
 Verilog HDL based ATM controller project implementing card authentication, PIN verification, balance enquiry, withdrawal, deposit, PIN change, security features, and FSM-based transaction control.
 ATM Controller Using Verilog HDL
 
+
 📌 Project Description
 
 This project presents a digital Automated Teller Machine (ATM) controller developed using Verilog HDL. The system models essential ATM operations such as card identification, PIN authentication, balance enquiry, cash withdrawal, deposit, PIN change, and card ejection.
@@ -106,15 +107,12 @@ By developing this project, we gained practical understanding of:
 
 ---
 
-👥 Project Team
-
-Team Members
-
-Name| Role
-G. Gayatri| Task Incharge
-P. Arvind| Team Member
-V. Devi| Team Member
-Rohini Naga Krishnavi| Team Member
+👥 👥 Project Team
+Name	Role
+G. Gayatri	Task Incharge
+P. Arvind	Team Member
+V. Devi	Team Member
+Rohini Naga Krishnavi	Team Member
 
 ---
 
@@ -126,20 +124,7 @@ The project was developed as a learning-oriented digital design project with emp
 
 ---
 
-📄 Documentation
 
-Detailed project documentation is included in this repository, covering:
-
-- Project overview
-- Objectives
-- System architecture
-- Working flow
-- FSM-based control
-- RTL design
-- Simulation results
-- Applications
-- Advantages
-- Conclusion
 
 ---
 
@@ -153,6 +138,10 @@ Possible future enhancements include:
 - Supporting more transaction types
 - Implementing the design on an FPGA development board
 - Connecting the controller with external display and input hardware
+
+- 🌟 Key Takeaway
+Observe → Think → Design → Implement → Learn.
+This project represents our effort to connect a simple real-world requirement with digital hardware design and strengthen our understanding of Verilog HDL, FSM, RTL design, and verification
 
 ---
 
